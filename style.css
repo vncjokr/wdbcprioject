@@ -1,0 +1,66 @@
+ 
+.container-fluid{
+    
+    background-color: aqua;
+    
+}
+
+h1{
+    font-size: 125px;
+    color: rgb(255, 255, 255);
+    font-family: monospace;
+}
+.p{
+    color: white;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.lorem{
+    width: 720px;
+    height: auto;
+}
+
+.about{
+    background-color: rgb(18, 111, 143);
+}
+
+.h1_2{
+    color: white;
+    font-family: monospace;
+}
+.para2{
+    font-family: monospace;
+    color: white;
+}
+
+.team{
+    background-color: rgb(10, 48, 172);
+}
+
+.h1_3{
+    color: white;
+    font-family: monospace;
+}
+.areo{
+    border-radius: 50%;
+    width: 250px;
+}
+
+.gallery{
+    background-color: rgb(21, 116, 180);
+}
+
+.h1_4{
+    color: white;
+    font-family: monospace;
+}
+.speedy{
+    height: auto;
+    width: 440px;
+}
+
+.h1_4{
+    color: white;
+    font-family: monospace;
+}
